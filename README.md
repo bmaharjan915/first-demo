@@ -1,2 +1,2 @@
-# first-demo
+# my-demo
 Testing my repository
